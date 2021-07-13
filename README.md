@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Roadmap to become a Decentralized Developer
 
-You can use the [editor on GitHub](https://github.com/yalamber/Decentralized-Developer-Roadmap/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A personal roadmap to become a decentralized developer
 
 ### Markdown
 
