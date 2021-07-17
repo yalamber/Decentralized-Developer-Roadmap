@@ -2,34 +2,17 @@
 
 A personal roadmap to become a decentralized developer
 
-### Markdown
+### What's decentralization?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From wikipedia: 
+"**Decentralization or decentralisation** is the process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group."
 
-```markdown
-Syntax highlighted code block
+"**Decentralized computing** is a decentralised system that allocated resources, both hardware and software, to each individual workstation, or office location. In contrast, centralized computing exists when the majority of functions are carried out, or obtained from a remote centralized location."
 
-# Header 1
-## Header 2
-### Header 3
+### Is internet decentralized?
+Internet is the biggest decentralized network in our human history, But most of the services we use for most of the tasks these days on internet seems to be centralized by specific organizations.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yalamber/Decentralized-Developer-Roadmap/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contributing or Contact
+Feel free to send in pull request or comment out any thing wrong in this page. You can also contact me at yalamber@mundhum.com
