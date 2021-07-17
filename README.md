@@ -12,6 +12,25 @@ From wikipedia:
 ### Is internet decentralized?
 Internet is the biggest decentralized network in our human history, But most of the services we use for most of the tasks these days on internet seems to be centralized by specific organizations.
 
+### Why do we need Decentralized services?
+Decentralization I think was the basic fundamental feature of the Internet. 
+
+### Building blocks for Decentralized service on Internet
+
+## Cryptography
+Privacy/security on any decentralized network/service can only be acheived with proven cryptography protocols.  
+
+## Blockchain
+Blockchain is decentralized Immutable ledger. A kind of decentralized database where any data once written is immutable by design. It is one of the critical building block for the true decentralized services on the internet. Blockchain has been successfully implemented in cryptocurrency like bitcoin, litecoin etc and also Decentralized computing network like Ethereum, polkadot, algorand, iotex etc. 
+Blockchain can be implemented as private or public network or hybrid of both but a true decentralized service can probably only be acheived in public blockchain system that provides equal opportunity and equal security for any participant on the network. 
+
+## IPFS
+A peer to peer file sharing system, your files are not hosted in single server but multiple peer/nodes can host your file in a decentralized network.  
+
+## OrbitDB
+
+
+
 
 
 ### Contributing or Contact
